@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Reports (generated)
+*.html
+!dashboard/templates/*.html
+gitexscan_report.*
+report.*
+
+# Reconstructed repos
+reconstructed/
+
+# Test domains
+domain.txt
+
+# Secrets (never commit)
+.env
+.env.*
+*.pem
+*.key
+
