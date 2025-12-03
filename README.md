@@ -29,7 +29,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gitexscan.git
+git clone https://github.com/siddhantbhattarai/gitexscan.git
 cd gitexscan
 
 # Create virtual environment
